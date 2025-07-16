@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelrahman Mohammed Badr
+# I'm Abdelrahman Mohammed Badr
 
 🎓 AI & Data Science Undergraduate | Pharos University, Alexandria  
 📊 Data Analyst in Training | 🤖 Machine Learning Enthusiast | 🔌 Embedded Systems Developer
