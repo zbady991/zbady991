@@ -25,23 +25,23 @@ Building intelligent systems where <b>AI, data, vision and hardware</b> meet.
 
 ---
 
-## 👋 WHO AM I?
+## WHO AM I?
 
 I'm **Abdulrahman Mohammed**, an AI & Embedded Systems developer focused on turning data into practical intelligent systems.
 
 My background combines:
 
-- 🤖 Machine Learning & Deep Learning
-- ✨ Generative AI
-- 👁️ Computer Vision
-- 📊 Data Analysis
-- 🔌 Embedded Systems & IoT
+-  Machine Learning & Deep Learning
+-  Generative AI
+-  Computer Vision
+-  Data Analysis
+-  Embedded Systems & IoT
 
 I'm currently **learning and exploring Generative AI**, with a focus on understanding how modern AI systems can be built and integrated into real applications.
 
 ---
 
-## ✨ CURRENTLY LEARNING — GENERATIVE AI
+##  CURRENTLY LEARNING — GENERATIVE AI
 
 > Exploring how modern generative models can turn information into useful intelligent applications.
 
@@ -63,9 +63,9 @@ GENERATIVE AI
 
 ---
 
-## 🧠 MY TECH STACK
+##  MY TECH STACK
 
-### 🤖 AI & MACHINE LEARNING
+###  AI & MACHINE LEARNING
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="45">
@@ -79,7 +79,7 @@ GENERATIVE AI
 
 ---
 
-### ✨ GENERATIVE AI
+###  GENERATIVE AI
 
 `LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `Vector Databases` · `AI Agents`
 
@@ -87,7 +87,7 @@ GENERATIVE AI
 
 ---
 
-### 👁️ COMPUTER VISION
+###  COMPUTER VISION
 
 <p>
 <img src="https://skillicons.dev/icons?i=opencv" height="45">
@@ -101,7 +101,7 @@ GENERATIVE AI
 
 ---
 
-### 📊 DATA ANALYSIS
+###  DATA ANALYSIS
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" height="45">
@@ -113,7 +113,7 @@ GENERATIVE AI
 
 ---
 
-### 🔌 EMBEDDED SYSTEMS & IoT
+###  EMBEDDED SYSTEMS & IoT
 
 <p>
 <img src="https://skillicons.dev/icons?i=arduino" height="45">
@@ -123,7 +123,7 @@ GENERATIVE AI
 
 ---
 
-### 🛠️ TOOLS
+###  TOOLS
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="45">
@@ -133,7 +133,7 @@ GENERATIVE AI
 
 ---
 
-## 🚀 FEATURED PROJECTS
+##  FEATURED PROJECTS
 
 <table>
 <tr>
@@ -151,7 +151,7 @@ IoT-based smart home project using ESP32 with connected hardware and remote cont
 
 <td width="50%">
 
-### ☀️ Arduino Solar Tracker
+###  Arduino Solar Tracker
 
 Embedded system designed to track the sun using Arduino, sensors and control logic.
 
@@ -165,7 +165,7 @@ Embedded system designed to track the sun using Arduino, sensors and control log
 <tr>
 <td>
 
-### 🎯 AI Agent — YOLO
+###  AI Agent — YOLO
 
 Computer vision project exploring object detection with YOLO.
 
@@ -177,7 +177,7 @@ Computer vision project exploring object detection with YOLO.
 
 <td>
 
-### 🖼️ Computer Vision & CNN
+###  Computer Vision & CNN
 
 Computer vision workflows involving image processing, CNN concepts and feature extraction.
 
@@ -189,7 +189,7 @@ Computer vision workflows involving image processing, CNN concepts and feature e
 
 ---
 
-## 🔬 HOW I APPROACH AI PROJECTS
+##  HOW I APPROACH AI PROJECTS
 
 ```text
              ┌───────────────┐
@@ -216,20 +216,20 @@ Computer vision workflows involving image processing, CNN concepts and feature e
 
 ---
 
-## 🧩 WHAT INTERESTS ME
+##  WHAT INTERESTS ME
 
 | Area | Focus |
 |---|---|
-| ✨ Generative AI | LLMs · RAG · AI Agents |
-| 🤖 Machine Learning | Classification · Regression · Model Evaluation |
-| 👁️ Computer Vision | YOLO · CNN · Face Recognition |
-| 📊 Data | Analysis · Visualization · Feature Engineering |
-| 🔌 Embedded AI | Arduino · ESP32 · IoT |
-| 🧠 Intelligent Systems | Connecting software with real-world hardware |
+|  Generative AI | LLMs · RAG · AI Agents |
+|  Machine Learning | Classification · Regression · Model Evaluation |
+|  Computer Vision | YOLO · CNN · Face Recognition |
+|  Data | Analysis · Visualization · Feature Engineering |
+|  Embedded AI | Arduino · ESP32 · IoT |
+|  Intelligent Systems | Connecting software with real-world hardware |
 
 ---
 
-## 📈 GITHUB
+##  GITHUB
 
 <div align="center">
 
