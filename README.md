@@ -1,72 +1,85 @@
-### Hi, I'm Abdulrahman Mohammed 👋
+<div align="center">
 
-🎓 Senior CS & AI Student @ Pharos University, Alexandria
-📊 Data Analyst (DEPI Certified) | 🔧 Embedded Systems Developer | 🤖 Applied AI
+<!-- ضع صورة البانر هنا بعد تجهيزها -->
 
----
+# Abdulrahman Mohammed
 
-### About Me
+**AI & Embedded Systems Developer • Data Analyst • ML Enthusiast**
 
-I'm a Computer Science & AI student focused on the intersection of embedded 
-systems and applied AI — building intelligent devices that don't just collect 
-data, but act on it.
+**Building intelligent systems from code to real impact.**
 
-I work across the full stack of applied tech: from IoT and embedded systems 
-(ESP32, Arduino) to data analysis and machine learning (Python, TensorFlow, 
-Scikit-learn).
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## About Me
 
-**[ESP32 Smart Home](https://github.com/zbady991/ESP32-Smart-Home-Direct-LED)** 
-— Production-grade IoT smart lighting system integrated with ESP RainMaker.
+I'm an AI & Embedded Systems enthusiast passionate about building intelligent, 
+data-driven systems that bridge software and hardware.
 
-**[AI Agent - YOLO](https://github.com/zbady991/AI-Agent_YOLO)** 
-— Real-time object detection agent built with YOLO.
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 🔌 Embedded Systems & IoT (ESP32, Arduino)
+- 📊 Data Analysis & Business Intelligence
+- 🐍 Python Programming
+- Currently learning advanced NLP and Model Deployment.
 
-**[Arduino Solar Tracking System](https://github.com/zbady991/Arduino-Solar-Tracking-System)** 
-— Dual-axis solar tracker using LDR sensors and servo motors, up to 40% more 
-efficient than static panels.
+### Tech Stack
 
-**[CNN Image Processing](https://github.com/zbady991/cnn-image-processing)** 
-— Image processing pipeline using OpenCV and NumPy.
-
----
-
-### 🎯 Areas of Interest
-
-- Embedded Systems & IoT Applications
-- Data Analysis & Predictive Modeling
-- Deep Learning (Computer Vision & NLP)
-- Model Deployment & Real-World AI Systems
-
----
-
-### 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zbady991&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbady991&layout=compact&theme=dark)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zbady991&show_icons=true&theme=dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zbady991&theme=dark" />
+
+</div>
 
 ---
 
-### 🔗 Let's Connect
+## Currently Learning
 
-- 💼 LinkedIn: [linkedin.com/in/abdulrahman-mohammed-ai](https://linkedin.com/in/abdulrahman-mohammed-ai)
-- 🌐 Portfolio: [zbd-portofolio-holk.vercel.app](https://zbd-portofolio-holk.vercel.app/)
-- 📧 Email: bedoobadr997@gmail.com
+- Computer Vision (advanced)
+- Natural Language Processing (NLP)
+- Model Deployment & MLOps basics
+- Advanced Embedded AI (TinyML)
 
-*Always learning. Always building. Always improving.*
+---
+
+## 🚀 Featured Projects
+
+📡 **[ESP32 Smart Home](https://github.com/zbady991/ESP32-Smart-Home-Direct-LED)** — 
+Production-grade IoT smart lighting system integrated with ESP RainMaker.
+
+🎯 **[AI Agent - YOLO](https://github.com/zbady991/AI-Agent_YOLO)** — 
+Real-time object detection agent built with YOLO.
+
+☀️ **[Arduino Solar Tracking System](https://github.com/zbady991/Arduino-Solar-Tracking-System)** — 
+Dual-axis solar tracker, up to 40% more efficient than static panels.
+
+🖼️ **[CNN Image Processing](https://github.com/zbady991/cnn-image-processing)** — 
+Image processing pipeline using OpenCV and NumPy.
+
+---
+
+## Connect with me
+
+- 💼 [LinkedIn](https://linkedin.com/in/abdulrahman-mohammed-ai)
+- 🌐 [Portfolio](https://zbd-portofolio-holk.vercel.app/)
+- 📧 bedoobadr997@gmail.com
+- 📍 Alexandria, Egypt
